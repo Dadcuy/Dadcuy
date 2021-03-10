@@ -1,4 +1,4 @@
-### Hi there, [Dadcuy][website] 
+### Hi there, I am [Dadcuy][website] 
 
 
 ## I'm a Student, Developer!!
