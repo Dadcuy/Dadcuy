@@ -3,16 +3,16 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="dadcuy.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dadcuy.cf" width="22px" src="https://svgshare.com/i/ZRf.svg" />][website]
 [<img align="left" alt="Dadcuy | YouTube" width="22px" src="https://svgshare.com/i/ZR6.svg" />][youtube]
-[<img align="left" alt="Dadcuy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dadcuy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Dadcuy | Instagram" width="22px" src="https://svgshare.com/i/ZSy.svg" />][instagram]
+[<img align="left" alt="Dadcuy | Instagram" width="22px" src="https://svgshare.com/i/ZR7.svg" />][discord]
 
 <br />
 
